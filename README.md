@@ -1,4 +1,4 @@
-![logo](https://github.com/Sayantikapaul/Sayantikapaul/blob/main/SAYANTIKA%20PAUL.png)
+![logo](https://github.com/Sayantikapaul/Sayantikapaul/blob/main/SAYANTIKA%20PAUL%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Sayantika Paul</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
